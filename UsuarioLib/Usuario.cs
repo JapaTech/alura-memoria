@@ -4,18 +4,29 @@ namespace UsuarioLib;
 
 public class Usuario
 {
-
     public Usuario(string nome, string email, List<string> telefone)
     {
         Nome = nome;
         Email = email;
         Telefones = telefone;
+        ChavesDeAcesso = new List<Guid>(new Guid[10]);
+
+        Stopwatch sw = new Stopwatch();
+        sw.Start();
+        for (int i = 0; i < 1000000; i++)
+        {
+            ChavesDeAcesso.Insert(2, Guid.NewGuid());
+        }
+        sw.Stop();
+        Console.WriteLine("Milisegundos: " + sw.ElapsedMilliseconds);
     }
 
     public int Id { get; set; }
     public string Nome { get; set; }
     public string Email { get; set; }
     public List<string> Telefones { get; set; }
+
+    public List<Guid> ChavesDeAcesso;
 
     public void PadronizaTelefones()
     {
