@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|c:\\users\\jonathan\\desktop\\projetos\\alura\\cs_otimizacao\\alura-memoria\\usuariolib\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9BC6B2-112F-48A5-B000-167A1B5FE4B1}|UsuarioLib\\UsuarioLib.csproj|solutionrelative:usuariolib\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormularioDTO.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\FormularioDTO.cs",
               "RelativeDocumentMoniker": "UsuarioLib\\FormularioDTO.cs",
               "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\FormularioDTO.cs",
               "RelativeToolTip": "UsuarioLib\\FormularioDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T11:36:58.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Coordenadas.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\Coordenadas.cs",
               "RelativeDocumentMoniker": "UsuarioLib\\Coordenadas.cs",
@@ -66,14 +66,14 @@
               "RelativeDocumentMoniker": "UsuarioLib\\Program.cs",
               "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\Program.cs",
               "RelativeToolTip": "UsuarioLib\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywCEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T12:25:05.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "UsuarioLib\\UsuarioDto.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Projetos\\Alura\\CS_Otimizacao\\alura-memoria\\UsuarioLib\\Usuario.cs",
               "RelativeDocumentMoniker": "UsuarioLib\\Usuario.cs",
