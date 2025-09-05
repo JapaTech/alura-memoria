@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UsuarioLib
 {
-    internal struct Coordenadas
+    internal record struct Coordenadas
     {
         public double Latidude;
         public double Longidude;

@@ -4,7 +4,6 @@ namespace UsuarioLib;
 
 public class Coordenada
 {
-
     public Coordenada(double latitude, double longitude)
     {
         Latitude = latitude;
